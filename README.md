@@ -1,20 +1,20 @@
 # ValentinaC-Portfolio
 ## About
-Hi, I'm Valentina! I have a degree in Computer Science And i love working with data. I have developed a strong foundation in data analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science. 
+Hi, I'm Valentina! I have a degree in Computer Science, and I love working with data. I have developed a strong foundation in data analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience data management, and statistical analysis, which make me a valuable assets in my role as a data analyst.
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management and statistical analysis, which makes me a valuable asset in my role as a data analyst.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 My resume [pdf].
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#about)
+- [Portfolio Projects](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    - Application of predictive models in employee attrition
+    -  [Application of Predictive Models in Employee Attrition]([https://github.com/Valentina](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Motors%20-%20Predictive%20Model%20for%20employee%20attrition.ipynb)
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
@@ -27,9 +27,11 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power BI
   - Generative AI application in data engineering
   
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#Education)
+- [Certificates](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#certificates)
+- [Contact](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#contacts)
+
+  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -90,7 +92,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning, EDA (exploratory data analysis), and analyzing the characteristics of different Pokémon.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
@@ -101,11 +103,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of the People, Pasadina, USA 
-Master of Science - MS information Technology
-Jun 2025 - anticipated completition - Jun 2027
+University of the People, Pasadena, USA 
+Master of Science - MS Information Technology
+Jun 2025 - anticipated completion - Jun 2027
 
-The University of the People, Pasadina, US
+The University of the People, Pasadena, US
 Bachelor's degree in Computer Science
 GPA 3.9, 2025
 
