@@ -14,6 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
+    - Application of predictive models in employee attrition
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
@@ -24,6 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
+  - Generative AI application in data engineering
   
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
