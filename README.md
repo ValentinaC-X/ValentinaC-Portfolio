@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [About](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    - [Application of Predictive Models in Employee Attrition](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Motors%20-%20Predictive%20Model%20for%20employee%20attrition.ipynb) and executive summary
+    - [Application of Predictive Models in Employee Attrition](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Motors%20-%20Predictive%20Model%20for%20employee%20attrition.ipynb) and [executive summary](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/executive-summary.pptx)
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
