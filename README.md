@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
-  - Generative AI application in data engineering
+  - [Generative AI application in data engineering](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Generative%20AI%20applications%20for%20data%20Engineering.pdf)
   
 
 ## Education
