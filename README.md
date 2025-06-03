@@ -18,13 +18,14 @@ This is a repository to showcase skills, share projects, and track my progress i
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Covid 19 Data Exploration](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Covid%2019%20Data%20Exploration%20-%20SQL)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [Pokémon Analysis](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Pok%C3%A9mon%20Analysis.ipynb)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
+    - [HR analytics dashboard](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/HR%20Analytics.pbix)
   - [Generative AI application in data engineering](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Generative%20AI%20applications%20for%20data%20Engineering.pdf)
   
 
