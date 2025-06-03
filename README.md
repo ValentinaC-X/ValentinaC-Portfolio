@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 - [About](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    -  [Application of Predictive Models in Employee Attrition]([https://github.com/Valentina](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Motors%20-%20Predictive%20Model%20for%20employee%20attrition.ipynb)
+    - [Application of Predictive Models in Employee Attrition](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Motors%20-%20Predictive%20Model%20for%20employee%20attrition.ipynb)
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
@@ -39,15 +39,15 @@ GPA 3.9, 2025
 
 
 ## Certificates
-•	Google Advanced Data Analytics – View Credentials
+•	Google Advanced Data Analytics
 Skills developed: Data Science, Statistical Analysis, Regression Models, Machine Learning, Predictive Modelling.
-•	Google Data Analytics – View Credentials
+•	Google Data Analytics
 Skills developed: Problem-Solving, Data Analysis, Data Cleansing, Data Collection, Data Integrity, EDA, Presentation, SQL, R.
-•	Google IT Support– View Credentials
+•	Google IT Support
 Skills developed: Troubleshooting, Network Security, Cryptography, Wireless Security.
-•	Google Project Management– View Credentials
+•	Google Project Management
 Skills developed: Project management, strategic thinking, risk management, quality management, and Agile framework.
-•	IBM Data Engineering– View Credentials
+•	IBM Data Engineering
 Skills developed: Generative AI, SQL, RDBMS, ETL, data pipelines, Data warehousing, big data, Spark, Python.
 
 
