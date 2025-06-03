@@ -39,15 +39,15 @@ GPA 3.9, 2025
 
 
 ## Certificates
-•	[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/T7NJRQMCHU6M)
+[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/T7NJRQMCHU6M)
 Skills developed: Data Science, Statistical Analysis, Regression Models, Machine Learning, Predictive Modelling.
-•	[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/BRWWYLWJ2AQR)
+[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/BRWWYLWJ2AQR)
 Skills developed: Problem-Solving, Data Analysis, Data Cleansing, Data Collection, Data Integrity, EDA, Presentation, SQL, R.
-•	[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/BP8UGTU2XPBP)
+[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/BP8UGTU2XPBP)
 Skills developed: Troubleshooting, Network Security, Cryptography, Wireless Security.
-•	[Google Project Management](https://www.coursera.org/account/accomplishments/specialization/AP4ZNYSYWW9Z)
+[Google Project Management](https://www.coursera.org/account/accomplishments/specialization/AP4ZNYSYWW9Z)
 Skills developed: Project management, strategic thinking, risk management, quality management, and Agile framework.
-•	[IBM Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/135ZOJ6S4OAD)
+[IBM Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/135ZOJ6S4OAD)
 Skills developed: Generative AI, SQL, RDBMS, ETL, data pipelines, Data warehousing, big data, Spark, Python.
 
 
