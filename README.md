@@ -6,9 +6,9 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My resume [pdf].
+My resume [pdf](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Valentina%20Catalano%20Resume%206-2025.pdf).
 
-This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
+This repository showcases my skills, shares projects, and tracks my progress in data analytics and data science-related topics.
 
 ## Table of Contents
 - [About](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#about)
