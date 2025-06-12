@@ -11,7 +11,7 @@ My resume [pdf](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/V
 This repository showcases my skills, shares projects, and tracks my progress in data analytics and data science-related topics.
 
 ## Table of Contents
-- [About](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#about)
+- About
 - [Portfolio Projects](https://github.com/ValentinaC-X/ValentinaC-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
     - [Application of Predictive Models in Employee Attrition](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Motors%20-%20Predictive%20Model%20for%20employee%20attrition.ipynb) and [executive summary](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/executive-summary.pptx)
