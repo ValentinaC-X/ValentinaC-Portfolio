@@ -23,8 +23,8 @@ Portfolio Projects:
     - [Pokémon Analysis](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Pok%C3%A9mon%20Analysis.ipynb)
       
   - Excel / Google Sheets
-     - [Answering questions with formulas()]
-     - [Anonymize a dataset()]
+     - [Answering questions with formulas](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/mobile_customers_anonymized%20dataset.xlsx)
+     - [Anonymize a dataset](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/supermarket_transactions.xlsx)
     
   - Tableau
     - [Viz](https://public.tableau.com/app/profile/valentina.c1262/vizzes)
@@ -46,17 +46,21 @@ GPA 3.9, 2025
 
 
 ## Certificates
--**[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/T7NJRQMCHU6M)
--Skills developed: Data Science, Statistical Analysis, Regression Models, Machine Learning, Predictive Modelling.
--**[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/BRWWYLWJ2AQR)
-_Skills developed: Problem-Solving, Data Analysis, Data Cleansing, Data Collection, Data Integrity, EDA, Presentation, SQL, R.
-_**[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/BP8UGTU2XPBP)
-_Skills developed: Troubleshooting, Network Security, Cryptography, Wireless Security.
-_**[Google Project Management](https://www.coursera.org/account/accomplishments/specialization/AP4ZNYSYWW9Z)
-_Skills developed: Project management, strategic thinking, risk management, quality management, and Agile framework.
-_**[IBM Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/135ZOJ6S4OAD)
-_Skills developed: Generative AI, SQL, RDBMS, ETL, data pipelines, Data warehousing, big data, Spark, Python.
 
+- **[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/T7NJRQMCHU6M)**  
+  _Skills developed:_ Data Science, Statistical Analysis, Regression Models, Machine Learning, Predictive Modelling
+
+- **[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/BRWWYLWJ2AQR)**  
+  _Skills developed:_ Problem-Solving, Data Analysis, Data Cleansing, Data Collection, Data Integrity, EDA, Presentation, SQL, R
+
+- **[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/BP8UGTU2XPBP)**  
+  _Skills developed:_ Troubleshooting, Network Security, Cryptography, Wireless Security
+
+- **[Google Project Management](https://www.coursera.org/account/accomplishments/specialization/AP4ZNYSYWW9Z)**  
+  _Skills developed:_ Project Management, Strategic Thinking, Risk Management, Quality Management, Agile Framework
+
+- **[IBM Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/135ZOJ6S4OAD)**  
+  _Skills developed:_ Generative AI, SQL, RDBMS, ETL, Data Pipelines, Data Warehousing, Big Data, Spark, Python
 
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/valentina-c-24204228a
