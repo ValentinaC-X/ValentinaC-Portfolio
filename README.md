@@ -1,14 +1,11 @@
 # ValentinaC-Portfolio
 ## About
-Hi, I'm Valentina! I have a degree in Computer Science, and I love working with data. I have developed a strong foundation in data analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science. 
-
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management and statistical analysis, which makes me a valuable asset in my role as a data analyst.
+Hi, I'm Valentina! I have a BS in Computer Science and a passion for manipulating data to uncover meaningful insights. 
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, statistical analysis, and machine learning models.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My resume [pdf](https://github.com/ValentinaC-X/ValentinaC-Portfolio/blob/main/Valentina%20Catalano%20Resume%206-2025.pdf).
-
-This repository showcases my skills, shares projects, and tracks my progress in data analytics and data science-related topics.
+Here are some of my early projects.
 
 ## Table of Contents
 Portfolio Projects:
